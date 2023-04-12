@@ -2798,3 +2798,13 @@
 #72 /home/958257.cloudwaysapps.com/cepdppxzre/public_html/public/index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle()
 #73 {main}
 "} 
+[2023-04-12 13:52:47] production.ERROR: Debugbar exception: Route [debugbar.openhandler] not defined.  
+[2023-04-12 13:52:48] production.ERROR: Debugbar exception: Route [debugbar.openhandler] not defined.  
+[2023-04-12 13:53:35] production.ERROR: Debugbar exception: Route [debugbar.openhandler] not defined.  
+[2023-04-12 13:53:39] production.ERROR: Debugbar exception: Route [debugbar.openhandler] not defined.  
+[2023-04-12 13:53:46] production.ERROR: Debugbar exception: Route [debugbar.openhandler] not defined.  
+[2023-04-12 13:54:01] production.ERROR: Debugbar exception: Route [debugbar.openhandler] not defined.  
+[2023-04-12 14:00:17] production.ERROR: Debugbar exception: Route [debugbar.openhandler] not defined.  
+[2023-04-12 14:00:24] production.ERROR: Debugbar exception: Route [debugbar.openhandler] not defined.  
+[2023-04-12 14:00:30] production.ERROR: Debugbar exception: Route [debugbar.openhandler] not defined.  
+[2023-04-12 14:01:04] production.ERROR: Debugbar exception: Route [debugbar.openhandler] not defined.  
